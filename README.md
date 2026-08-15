@@ -4,7 +4,7 @@ A beginner-friendly **Retrieval-Augmented Generation (RAG)** application built w
 
 Upload a PDF document, ask questions about its content, and get answers grounded in the uploaded document.
 
-This project is part of the **AI Projects Series** from **Karthik's Show**.
+This project is part of the **AI Projects ** from **HASHIM**.
 
 ## Features
 
@@ -78,7 +78,7 @@ rag-document-chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/KarthiksShow/rag-document-chatbot.git
+git clone https://github.com/MohammedHashim007/rag-document-chatbot.git
 cd rag-document-chatbot
 ```
 
@@ -238,9 +238,6 @@ By building this project, you can understand:
 - How grounding can reduce unsupported answers
 - How to build a simple AI chat interface with Streamlit
 
-## YouTube Tutorial
-
-This project is explained step by step in Tamil on **Karthik's Show**.
 
 The tutorial covers:
 
@@ -253,12 +250,4 @@ The tutorial covers:
 - Streamlit chat interface
 - Final RAG testing
 
-## Channel
 
-**Karthik's Show**
-
-Learn. Build. Grow.
-
-## License
-
-This project is intended for learning and demonstration purposes.
